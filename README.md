@@ -16,7 +16,7 @@ básicamente above any route you want documented, just add
 
 or
 
-    doc "some descrption", { hash of params to param descriptions }
+    doc "some description", { hash of params to param descriptions }
   
 afterward a new route /doc will be added to your app that renders these documented routes 
 
