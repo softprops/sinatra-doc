@@ -47,7 +47,7 @@ an example
     
 # Props
 
-based on an idea [@bmizerany]("http://twitter.com/bmizerany") proposed in a [heroku]("http://heroku.com/") talk in nyc
+based on an idea [@bmizerany]("http://twitter.com/bmizerany") proposed in a heroku talk in nyc
 
 # TODO
 
