@@ -2,10 +2,26 @@
 
 self documentaion for your [sinatra]("http://sinatrarb.com") app's routes
 
+# install
+
+    > gem install sinatra-doc 
+
 # usage
 
 see the reference implementation [app.rb](http://github.com/softprops/sinatra-doc/blob/master/app.rb)
   
+básicamente above any route you want documented, just add
+
+    doc "some description"
+
+or
+
+    doc "some descrption", { hash of params to param descriptions }
+  
+afterward a new route /doc will be added to your app that renders these documented routes 
+
+an example  
+
     > your app.rb
     
     class App < Sinatra::Base
