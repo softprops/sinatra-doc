@@ -4,6 +4,8 @@ self documentaion for your [sinatra]("http://sinatrarb.com") app's routes
 
 # usage
 
+see the reference implementation [app.rb](http://github.com/softprops/sinatra-doc/blob/master/app.rb)
+  
     > your app.rb
     
     class App < Sinatra::Base
