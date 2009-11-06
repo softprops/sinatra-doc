@@ -1,6 +1,6 @@
 # sinatra-doc
 
-self documentaion for your [sinatra]("http://sinatrarb.com") app's routes
+self documentaion for your [sinatra](http://sinatrarb.com) app's routes
 
 # install
 
@@ -47,7 +47,7 @@ an example
     
 # Props
 
-based on an idea [@bmizerany]("http://twitter.com/bmizerany") proposed in a heroku talk in nyc
+based on an idea [@bmizerany](http://twitter.com/bmizerany) proposed in a heroku talk in nyc
 
 # TODO
 
