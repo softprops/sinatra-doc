@@ -1,6 +1,9 @@
+
 # sinatra-doc
 
 self documentaion for your [sinatra]("http://sinatrarb.com") app's routes
+
+NOTE: this project is now longer being actively maintained. I recommend you check out a more active (and probably more well-written) project [sinatra-docdsl](https://github.com/jillesvangurp/sinatra-docdsl)
 
 # install
 
